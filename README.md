@@ -68,3 +68,7 @@ If you are a contributor check out the [API Blueprint Developers Discussion Grou
 
 ## License
 MIT License. See the [LICENSE](https://github.com/apiaryio/api-blueprint/blob/master/LICENSE) file.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aimeedonahue/api-blueprint/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
